@@ -1,0 +1,4 @@
+this text is entered using vim editor..
+
+after doing git stash..
+
