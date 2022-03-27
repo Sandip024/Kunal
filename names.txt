@@ -1,2 +1,3 @@
-added some text
-q
+this is the file that is being created for the second time
+
+i by mistake deleted the names.txt file and wanted this back
